@@ -59,7 +59,7 @@ Die Website wird mit folgenden Technologien entwickelt:
 
 ## Ungefähre Roadmap
 
-### Obligazorisch
+### Obligatorisch
 
 1. **Phase 1 - Planung (02.11.2023)**
    - Figma und Co.
